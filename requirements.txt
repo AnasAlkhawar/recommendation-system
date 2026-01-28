@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+spotipy
+fuzzywuzzy
+python-Levenshtein
+lightfm
+yellowbrick
+nltk
