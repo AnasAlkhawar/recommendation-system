@@ -27,7 +27,7 @@ Given one or more seed songs, the system:
 * **Clustering** (KMeans, PCA, t-SNE)  
 * **External API integration** (Spotify)  
 * **Environment-agnostic** file handling  
-* **Clean, portable Python code** (no Colab dependencies)
+
 
 ---
 
